@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main{
+    padding: 1rem;
+    max-width: 1080px;
+}
+nav{
+    background-color: dimgrey;
+    height: 2.8rem;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.nav-ul{
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.nav-li{
+    display: inline;
+    margin-left: 1.5rem;
+    font-size: 1.8rem;
+    background-repeat: no-repeat;
+}
+
+.apple-logo{
+    background-image: url('logos/apple-logo.svg');
+    background-size: 20px 45px;
+    background-position: center center;
+}
+
+.apple-store{
+    background-image: url('logos/apple-store.svg');
+    background-size: 45px 49px;
+    background-position: center center;
+}
+
+.apple-mac{
+    background-image: url('logos/apple-mac.svg');
+    background-size: 45px 49px;
+    background-position: center center;
+}
+
+.apple-ipad{
+    background-image: url('logos/apple-ipad.svg');
+    background-size: 45px 49px;
+    background-position: center center;
+}
+
+.apple-iphone{
+    background-image: url('logos/apple-iphone.svg');
+    background-size: 45px 49px;
+    background-position: center center;
+}
+
+.apple-watch{
+    background-image: url('logos/apple-watch.svg');
+    background-size: 45px 49px;
+    background-position: center center;
+}
+
+.apple-tv{
+    background-image: url('logos/apple-tv.svg');
+    background-size: 45px 49px;
+    background-position: center center;
+}
+
+.apple-music{
+    background-image: url('logos/apple-music.svg');
+    background-size: 45px 49px;
+    background-position: center center;
+}
+
+.apple-support{
+    background-image: url('logos/apple-support.svg');
+    background-size: 60px 49px;
+    background-position: center center;
+}
+
+.apple-search{
+    background-image: url('logos/apple-search.svg');
+    background-size: 45px 80px;
+    background-position-x: center;
+    background-position-y: -0.2rem;
+}
+
+.apple-bag{
+    background-image: url('logos/apple-bag.svg');
+    background-size: 20px 45px;
+    background-position: center center;
+}
+
+.hide-content{
+    visibility: hidden;
+}
